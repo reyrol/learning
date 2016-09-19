@@ -1,0 +1,26 @@
+{
+    "author": "reyrrr@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "number-2",
+    "pebble": {
+        "displayName": "number 2",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "40eb4541-6e1c-4dae-beff-ee43ea92c616",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "0.1.0"
+}
